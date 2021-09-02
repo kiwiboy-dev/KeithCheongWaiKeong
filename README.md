@@ -2,7 +2,7 @@ Hi there 👋
 ============
 
 - 🔭 **I’m currently working on:** Creating and building my portfolio on Github
-- 🌱 **I’m currently working with:** HealthBeats Pte Ltd as a Fullstack Trainee
+- 🌱 **I’m currently working with:** EDB Singapore as a Fullstack Developer (Vendor)
 - 👯 **I’m looking to collaborate on:** New and interesting open source projects
 - 🤔 **I’m looking for help with:** Experience Developers and Contributors
 - 📫 **How to reach me:** keithcheongwaikeong@gmail.com _Do make the email subject appealing above the newsletters I subscribe to lol_
