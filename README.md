@@ -7,6 +7,4 @@ Hi there 🥝
 - 🤔 **I’m looking for help with:** Experience Developers and Contributors
 - 📫 **How to reach me:** keithcheongwaikeong@gmail.com
 - 😄 **Pronouns:** He/He
-- ⚡ **Fun fact:** Love gaming, and hoping to have a chance to learn about how to code games!
-
-Still new so..... Gotta build upon this stuff as much as I can lololol
+- ⚡ **Fun fact:** Sometimes I say Merry Christmas to my friends regardless of the time of year 
